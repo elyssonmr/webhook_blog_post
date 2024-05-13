@@ -1,0 +1,6 @@
+.github
+.gitignore
+__pycache__
+docker-compose.yml
+.git
+.python-version
